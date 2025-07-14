@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from 'react';
-import ProfileCard from './components/ProfileCard';
-import Navigation from './components/Navigation';
-import About from './components/About';
-import Skills from './components/Skills';
-import Projects from './components/Projects';
-import Certifications from './components/Certifications';
-import AIChatbot from './components/AIChatbot';
-import './CyberPortfolio.css';
+import ProfileCard from '/ProfileCard';
+import Navigation from '/Navigation';
+import About from '/About';
+import Skills from '/Skills';
+import Projects from '/Projects';
+import Certifications from '/Certifications';
+import AIChatbot from '/AIChatbot';
+import '/CyberPortfolio.css';
 
 const CyberPortfolio = () => {
   const [activeSection, setActiveSection] = useState('about');

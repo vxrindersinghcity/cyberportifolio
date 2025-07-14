@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import pfp from '../pfp.png';
+import pfp from '/pfp.png';
 import { Shield, Terminal, Mail, Github, Linkedin, Download } from 'lucide-react';
 
 const ProfileCard = () => {
