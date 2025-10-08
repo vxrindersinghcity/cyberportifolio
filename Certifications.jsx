@@ -3,10 +3,7 @@ import { Database, Shield, ChevronRight, Lock } from 'lucide-react';
 
 const Certifications = () => {
   const certifications = [
-    'Certified Ethical Hacker (CEH)',
-    'CISSP - Information Security',
-    'CompTIA Security+',
-    'OSCP - Offensive Security'
+    
   ];
 
   return (

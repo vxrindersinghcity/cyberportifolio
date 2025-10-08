@@ -38,17 +38,17 @@ const ProfileCard = () => {
             {isTyping ? 'Cybersecurity Specialist_' : 'Cybersecurity Specialist'}
           </span>
         </div>
-        <p className="profile-subtitle">Ethical Hacker & Security Architect</p>
+        <p className="profile-subtitle">Undergraduate Student</p>
       </div>
 
       {/* Quick Stats */}
       <div className="stats-grid">
         <div className="stat-card">
-          <div className="stat-number cyan">50+</div>
+          <div className="stat-number cyan">2</div>
           <div className="stat-label">Projects</div>
         </div>
         <div className="stat-card">
-          <div className="stat-number green">5+</div>
+          <div className="stat-number green">1</div>
           <div className="stat-label">Years Exp</div>
         </div>
       </div>

@@ -4,22 +4,10 @@ import { Code } from 'lucide-react';
 const Projects = () => {
   const projects = [
     {
-      title: 'Advanced Penetration Testing Suite',
-      description: 'Comprehensive toolkit for network vulnerability assessment with automated reporting and compliance checking.',
-      tech: ['Python', 'Nmap', 'Metasploit', 'Burp Suite'],
+      title: 'Cyberportifolio website',
+      description: 'Made my portiflio from a language called react. Note I have used AI.',
+      tech: ['HTML','react js','css'],
       status: 'Production'
-    },
-    {
-      title: 'Zero-Trust Security Framework',
-      description: 'Enterprise-grade security architecture implementation with multi-factor authentication and continuous monitoring.',
-      tech: ['Docker', 'Kubernetes', 'OAuth 2.0', 'SIEM'],
-      status: 'Active'
-    },
-    {
-      title: 'Cryptographic Hash Analyzer',
-      description: 'Real-time encryption/decryption tool with support for modern algorithms and quantum-resistant protocols.',
-      tech: ['C++', 'OpenSSL', 'AES', 'RSA'],
-      status: 'Research'
     }
   ];
 

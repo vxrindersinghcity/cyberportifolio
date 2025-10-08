@@ -148,15 +148,11 @@ const About = () => {
       
       <div>
         <p className="about-text">
-          I'm a passionate cybersecurity professional with over 5 years of experience in ethical hacking, 
-          penetration testing, and security architecture. My expertise spans across network security, 
-          vulnerability assessment, and incident response.
+          I'm a passionate undergraduate student currently trying to pursue a career in 
+          cybersecurity. I will be expecting to graduate in 2028 with a MSci in Computer Science
+          with cybersecurity.
         </p>
-        <p className="about-text">
-          I specialize in identifying security vulnerabilities, implementing robust defense mechanisms, 
-          and ensuring compliance with industry standards. My approach combines technical expertise 
-          with strategic thinking to protect organizations from evolving cyber threats.
-        </p>
+      
         
         <div className="info-grid">
           <div className="info-card" style={{ gridColumn: 'span 2' }}>
