@@ -70,7 +70,7 @@ const ProfileCard = () => {
       </div>
 
       {/* Download CV Button */}
-      <button className="download-btn" onClick={() => window.open('/CV.pdf', '_blank')}>
+      <button className="download-btn" onClick={() => window.open('/cyberportifolio/CV.pdf', '_blank')}>
   <Download className="download-icon" />
   Download Resume
 </button>
